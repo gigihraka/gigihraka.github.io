@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Profil Amikom</title>
+   <link href="styleprofil.css" rel="stylesheet">
+   </head>
+<body bgcolor="white" >
+    <div class="home">
+	 <ul class="home-logo">
+	   <li> <img src="Logo-Amikom-Universitas-Amikom-Yogyakarta-Original-PNG.PNG" width="113" height="100"  title="amikom" > </li>
+	   <li>
+    	 <h2> <font color="white"> UNIVERSTAS<br>AMIKOM <br>YOGYAKARTA </h2>
+       </li>
+	 </ul>
+	 <ul class="home-login">
+	   <li>Dasboard</li>
+	   <li>Home</li>
+	   <li>Menu</li>
+	 </ul>
+    </div>
+	<div class="misi">
+	      <p>Universitas Amikom Yogyakarta memiliki misi :  <br>
+        1.	Menyelenggarakan pendidikan tinggi kelas dunia di bidang teknologi informasi, komunikasi dan  bisnis berbasis moral dan entrepreneurship.<br>
+        2.	Melaksanakan penelitian penelitian dalam bidang teknologi informasi, komunikasi dan bisnis berkualitas dunia yang dapat berperan meningkatkan daya saing nasional<br>
+        3.	Menyelenggarakan layanan pengabdian kepada masyarakat secara profesional dalam rangka ikut memecahkan persoalan dunia maupun nasional, terutama dalam bidang teknologi informasi, komunikasi dan bisnis.<br>
+        4.	Menyelenggarakan pendidikan berstandar global melalui kemitraan dan jejaring nasional, regional maupun global.<br>
+        5.	Mengembangankan pusat ekonomikreatuf dan pusat kewirausahaan yang bermanfaat baik nasional, regional maupun global </p>
+     </div>
+
+
+	
+</body>
+</html>
